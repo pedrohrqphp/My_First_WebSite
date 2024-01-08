@@ -1,0 +1,58 @@
+body {
+    margin: 65px;
+}
+
+#Introdução {
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    color: #E30000;
+    text-align: center;
+}
+
+#Pedro {
+    color: #FF7E00;margin-left: 40px;
+}
+
+#Pedroh3 {
+    color: #0069F9;
+}
+
+#Pedrodiv {
+    background-color: rgba(132, 135, 155, 0.3);
+}
+
+#Longboard {
+    max-width: 400px;
+    margin-left: 60px;
+    margin-right:60px;
+}
+
+#Vôlei {
+    max-width: 400px;
+}
+
+#RV {
+    max-width: 400px;
+    margin-left: 60px;
+    margin-right:60px;
+}
+
+#Peculiares {
+    max-width: 500px;
+}
+
+#jurassic {
+    max-width: 400px;
+    margin-left: 60px;
+    margin-right:60px;
+}
+
+#SKAM {
+    max-width: 500px;
+}
+
+.Pedroparagrafo {
+    font-family: 'Poppins', sans-serif;
+}
